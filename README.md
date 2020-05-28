@@ -1,2 +1,2 @@
-# skylrz_dtr
+# Flexible DTR
 Flexible DTR for whitelisted job
